@@ -1,5 +1,5 @@
 # Description
-The aim is to create my own MySQL movie database with data pulled the internet. 
+The aim is to create my own MySQL movie database with data pulled from a website. 
 
 ## Steps
 1. Automate API requests and data extraction from the IMDB database using Python (DONE)
